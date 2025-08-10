@@ -40,8 +40,8 @@ This project analyzes bird monitoring data collected from Forest and Grassland h
    cd Bird_Species_EDA
 2.Install required packages (if not already installed):
 
-```bash
 pip install pandas numpy matplotlib seaborn
+
 
 3.Open and run the Jupyter Notebook Bird_monitoring.ipynb to explore the analysis and visualizations.
 
